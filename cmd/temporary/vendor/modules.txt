@@ -1,0 +1,30 @@
+# github.com/ikawaha/kagome-dict v1.0.9
+## explicit; go 1.19
+github.com/ikawaha/kagome-dict/dict
+github.com/ikawaha/kagome-dict/dict/trie
+# github.com/ikawaha/kagome-dict/ipa v1.0.10
+## explicit; go 1.19
+github.com/ikawaha/kagome-dict/ipa
+# github.com/ikawaha/kagome-dict/uni v1.1.9
+## explicit; go 1.19
+github.com/ikawaha/kagome-dict/uni
+# github.com/ikawaha/kagome/v2 v2.9.3
+## explicit; go 1.19
+github.com/ikawaha/kagome/v2
+github.com/ikawaha/kagome/v2/cmd/lattice
+github.com/ikawaha/kagome/v2/cmd/sentence
+github.com/ikawaha/kagome/v2/cmd/server
+github.com/ikawaha/kagome/v2/cmd/tokenize
+github.com/ikawaha/kagome/v2/filter
+github.com/ikawaha/kagome/v2/tokenizer
+github.com/ikawaha/kagome/v2/tokenizer/lattice
+# github.com/mattn/go-sqlite3 v1.14.16
+## explicit; go 1.16
+github.com/mattn/go-sqlite3
+# golang.org/x/text v0.9.0
+## explicit; go 1.17
+golang.org/x/text/encoding
+golang.org/x/text/encoding/internal
+golang.org/x/text/encoding/internal/identifier
+golang.org/x/text/encoding/japanese
+golang.org/x/text/transform
